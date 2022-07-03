@@ -71,5 +71,4 @@ public class AllureTestExample{
         });
         step("Нажать кнопку Выйти");
     }
-
 }
